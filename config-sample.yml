@@ -12,8 +12,8 @@
 #   Ignore patterns | http://shopify.github.io/themekit/ignores/
 
 development:
-  password:
-  theme_id:
-  store:
+  password:b213b8da44bc88192f571640da807702
+  theme_id:shop.parliament.uk
+  store:regal-momennts.myshopify.com
   ignore_files:
     - "config/settings_data.json"
